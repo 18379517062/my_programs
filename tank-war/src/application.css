@@ -1,0 +1,9 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#startButton{  
+    /*…Ë÷√±≥æ∞—’…´Ω•±‰*/  
+    -fx-background-color: linear-gradient(to right,#00fffc,#fff600);  
+  
+    /*…Ë÷√‘≤Ω«*/  
+    -fx-background-radius: 25;  
+    -fx-border-radius: 25;  
+ }  
